@@ -1,0 +1,14 @@
+{
+  "name": "dynamic-site",
+  "version": "1.0.0",
+  "description": "Dynamic Website Deployment Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
